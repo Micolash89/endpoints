@@ -1,18 +1,18 @@
 {
-
-    "clave":[{
-
-        "valor":"valor",
-        "valor1":"valor"
-    },{
-        "valor":"valor",
-        "valor1":"valor"
+  "responsive": [
+    {
+      "valor": "valor",
+      "valor1": "valor"
+    },
+    {
+      "valor": "valor",
+      "valor1": "valor"
     }
-
-
-]
-    
-
-
-
+  ],
+  "js":[{
+    "cosa":"cosa"
+  }],
+  "react":[{
+    "otra":"otra"
+  }]
 }
