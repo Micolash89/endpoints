@@ -2,8 +2,15 @@
 
     "clave":[{
 
-        "valor":"valor"
-    }]
+        "valor":"valor",
+        "valor1":"valor"
+    },{
+        "valor":"valor",
+        "valor1":"valor"
+    }
+
+
+]
     
 
 
