@@ -1,18 +1,67 @@
 {
   "responsive": [
     {
-      "valor": "valor",
-      "valor1": "valor"
-    },
-    {
-      "valor": "valor",
-      "valor1": "valor"
+      "tittle":"RESPONSIVE",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://i.imgur.com/a4D7Bfg.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega01/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega01"
     }
   ],
-  "js":[{
-    "cosa":"cosa"
-  }],
-  "react":[{
-    "otra":"otra"
-  }]
+
+  "js":[
+    {
+      "tittle":"JAVASCRIPT",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://i.imgur.com/a4D7Bfg.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega01/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega01"
+    }
+],
+
+  "react":[
+    {
+    "tittle":"REACT",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://i.imgur.com/a4D7Bfg.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega01/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega01"
+  }
+],
+
+  "certificates":[
+    {
+      "img":"https://i.imgur.com/7RtvL1i.jpg",
+      "tittle1":"Front-end Developer",
+      "tittle2":"Feb 2020 - Feb 2021"
+  },
+    {
+      "img":"https://i.imgur.com/7RtvL1i.jpg",
+      "tittle1":"Front-end Developer",
+      "tittle2":"Feb 2020 - Feb 2021"
+  },
+    {
+      "img":"https://i.imgur.com/7RtvL1i.jpg",
+      "tittle1":"Front-end Developer",
+      "tittle2":"Feb 2020 - Feb 2021"
+  }
+],
+
+  "experience":[
+    {
+    "img":"https://i.imgur.com/5Qguuzj.png",
+    "tittle1" :"Front-end Developer",
+    "tittle2" :"Feb 2022 - Actualidad",
+    "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ullam distinctio suscipit exercitationem, nemo eveniet ut optio!"
+  },
+    {
+    "img":"https://i.imgur.com/5Qguuzj.png",
+    "tittle1" :"Front-end Developer",
+    "tittle2" :"Feb 2022 - Actualidad",
+    "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ullam distinctio suscipit exercitationem, nemo eveniet ut optio!"
+  }
+]
 }
