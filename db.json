@@ -1,66 +1,114 @@
 {
   "responsive": [
     {
-      "tittle":"RESPONSIVE",
+      "title":"RESPONSIVE",
       "hashTag":"#HTML #CSS #responsive",
       "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
-      "demo":"https://micolash89.github.io/Javier-Espindola-entrega01/",
-      "code":"https://github.com/Micolash89/Javier-Espindola-entrega01"
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"RESPONSIVE",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"RESPONSIVE",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
     }
   ],
 
   "js":[
     {
-      "tittle":"JAVASCRIPT",
+      "title":"JAVASCRIPT",
       "hashTag":"#HTML #CSS #responsive",
       "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
-      "demo":"https://micolash89.github.io/Javier-Espindola-entrega01/",
-      "code":"https://github.com/Micolash89/Javier-Espindola-entrega01"
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
     }
 ],
 
   "react":[
     {
-    "tittle":"REACT",
+    "title":"REACT",
     "hashTag":"#HTML #CSS #responsive",
     "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
     "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
-    "demo":"https://micolash89.github.io/Javier-Espindola-entrega01/",
-    "code":"https://github.com/Micolash89/Javier-Espindola-entrega01"
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
   }
 ],
 
   "certificates":[
     {
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/certificado1.jpeg",
-      "tittle1":"Front-end Developer",
-      "tittle2":"Feb 2020 - Feb 2021"
+      "title1":"Front-end Developer",
+      "title2":"Feb 2020 - Feb 2021"
   },
     {
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/certificado1.jpeg",
-      "tittle1":"Front-end Developer",
-      "tittle2":"Feb 2020 - Feb 2021"
+      "title1":"Front-end Developer",
+      "title2":"Feb 2020 - Feb 2021"
   },
     {
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/certificado1.jpeg",
-      "tittle1":"Front-end Developer",
-      "tittle2":"Feb 2020 - Feb 2021"
+      "title1":"Front-end Developer",
+      "title2":"Feb 2020 - Feb 2021"
   }
 ],
 
   "experience":[
     {
     "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/adidas.png",
-    "tittle1" :"Front-end Developer",
-    "tittle2" :"Feb 2022 - Actualidad",
+    "title1" :"Front-end Developer",
+    "title2" :"Feb 2022 - Actualidad",
     "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ullam distinctio suscipit exercitationem, nemo eveniet ut optio!"
   },
     {
     "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/adidas.png",
-    "tittle1" :"Front-end Developer",
-    "tittle2" :"Feb 2022 - Actualidad",
+    "title1" :"Front-end Developer",
+    "title2" :"Feb 2022 - Actualidad",
     "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ullam distinctio suscipit exercitationem, nemo eveniet ut optio!"
   }
 ]
