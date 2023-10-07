@@ -63,12 +63,20 @@
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
       "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
       "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"RESPONSIVE 9",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
     }
   ],
 
   "js":[
     {
-      "title":"JAVASCRIPT",
+      "title":"JAVASCRIPT 1",
       "hashTag":"#HTML #CSS #responsive",
       "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
@@ -76,7 +84,7 @@
       "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
     },
     {
-      "title":"JAVASCRIPT",
+      "title":"JAVASCRIPT 2",
       "hashTag":"#HTML #CSS #responsive",
       "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
@@ -84,7 +92,95 @@
       "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
     },
     {
-      "title":"JAVASCRIPT",
+      "title":"JAVASCRIPT 3",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 4",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 5",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 6",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 7",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 8",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 9",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 10",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 11",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 12",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 13",
+      "hashTag":"#HTML #CSS #responsive",
+      "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+      "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+      "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+      "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+    },
+    {
+      "title":"JAVASCRIPT 14",
       "hashTag":"#HTML #CSS #responsive",
       "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
       "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
@@ -95,7 +191,7 @@
 
   "react":[
     {
-    "title":"REACT",
+    "title":"REACT 1",
     "hashTag":"#HTML #CSS #responsive",
     "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
     "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
@@ -103,7 +199,7 @@
     "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
   },
     {
-    "title":"REACT",
+    "title":"REACT 2",
     "hashTag":"#HTML #CSS #responsive",
     "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
     "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
@@ -111,7 +207,87 @@
     "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
   },
     {
-    "title":"REACT",
+    "title":"REACT 3",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 4",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 5",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 6",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 7",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 8",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 9",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 10",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 11",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 12",
+    "hashTag":"#HTML #CSS #responsive",
+    "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
+    "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
+    "demo":"https://micolash89.github.io/Javier-Espindola-entrega02/",
+    "code":"https://github.com/Micolash89/Javier-Espindola-entrega02"
+  },
+    {
+    "title":"REACT 13",
     "hashTag":"#HTML #CSS #responsive",
     "paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
     "img":"https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
