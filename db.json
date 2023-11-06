@@ -31,17 +31,8 @@
       "img": "https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
       "demo": "https://micolash89.github.io/Javier-Espindola-entrega03/",
       "code": "https://github.com/Micolash89/Javier-Espindola-entrega03"
-    },
-    {
-      "title": "RESPONSIVE 5",
-      "hashTag": "#HTML #CSS #responsive",
-      "paragraph": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A explicabo aspernatur vitae ea quos culpa obcaecati veritatis doloremque autem, tenetur fugiat ducimus, molestiae provident perspiciatis! Nesciunt praesentium enim inventore. Beatae, rerum incidunt!",
-      "img": "https://micolash89.github.io/Javier-Espindola-entrega01/images/portfolio.png",
-      "demo": "https://micolash89.github.io/Javier-Espindola-entrega03/",
-      "code": "https://github.com/Micolash89/Javier-Espindola-entrega03"
     }
   ],
-
   "js": [
     {
       "title": "JAVASCRIPT 1",
@@ -76,7 +67,6 @@
       "code": "https://github.com/Micolash89/Javier-Espindola-entrega03"
     }
   ],
-
   "react": [
     {
       "title": "REACT 1",
@@ -127,7 +117,6 @@
       "code": "https://github.com/geracatalas/Homers-Web-Page"
     }
   ],
-
   "certificates": [
     {
       "img": "https://micolash89.github.io/Javier-Espindola-entrega01/images/certificado1.jpeg",
@@ -145,7 +134,6 @@
       "title2": "Feb 2020 - Feb 2021"
     }
   ],
-
   "experience": [
     {
       "img": "https://micolash89.github.io/Javier-Espindola-entrega01/images/adidas.png",
